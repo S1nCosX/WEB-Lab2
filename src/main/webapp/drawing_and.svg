@@ -1,0 +1,42 @@
+<svg version="1.1"
+     viewBox="0 0 120 120"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <polygon points="10,10 110,10 110,110 10,110" fill="antiquewhite"/>
+
+    <path id="figure5" d="M60 10
+           A 60 60, 0, 0, 0, 10 60
+           L 10 85
+           L 60 85
+           L 60 60
+           L 110 60" fill="blue" fill-opacity="0.7"/>
+
+    <path id="figure4" d="M60 20
+           A 60 60, 0, 0, 0, 20 60
+           L 20 80
+           L 60 80
+           L 60 60
+           L 100 60" fill="green" fill-opacity="0.7"/>
+
+    <path id="figure3" d="M60 30
+           A 60 60, 0, 0, 0, 30 60
+           L 30 75
+           L 60 75
+           L 60 60
+           L 90 60" fill="yellow" fill-opacity="0.7"/>
+
+    <path id="figure2" d="M60 40
+           A 60 60, 0, 0, 0, 40 60
+           L 40 70
+           L 60 70
+           L 60 60
+           L 80 60" fill="orange" fill-opacity="0.7"/>
+
+    <path id="figure1" d="M60 50
+           A 60 60, 0, 0, 0, 50 60
+           L 50 65
+           L 60 65
+           L 60 60
+           L 70 60" fill="red" fill-opacity="0.7"/>
+
+</svg>
